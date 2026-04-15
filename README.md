@@ -1,91 +1,86 @@
-# 👋 Hi there, I'm Prince Kumar
+👋 Hi there, I'm Prince Kumar
+🚀 About Me
 
-## 🚀 About Me
-🎓 Education: MCA from LNCT University, Bhopal  
-📊 CGPA: 7.52 / 10 | Duration: 2023 – 2025  
+🎓 Education: MCA from LNCT University, Bhopal
+📊 CGPA: 7.52 / 10 | Duration: 2023 – 2025
 
-💼 Current Role: Aspiring Software Engineer (Fresher)  
-🧠 Experience: Built multiple frontend projects and currently learning backend development  
+💼 Current Role: Aspiring Software Engineer (Fresher)
+🧠 Experience: Built multiple frontend projects and currently learning backend & testing
 
-🛠 Primary Stack: Java, JavaScript, HTML, CSS, ReactJS  
-📊 DSA: 470+ LeetCode problems solved (1300+ rating)  
-🎯 Focus: Backend Development, REST APIs, Problem Solving  
+🛠 Primary Stack: Java, JavaScript, HTML, CSS, ReactJS
+📊 DSA: 470+ LeetCode problems solved (1300+ rating)
+🎯 Focus: Backend Development, REST APIs, Software Testing
 
----
+💼 Professional Experience
+Software Development Learner (Self-Practice)
 
-## 💼 Professional Experience
+Duration: 2023 – Present
 
-### Software Development Learner (Self-Practice)
-Duration: 2023 – Present  
+What I Do
 
-**What I Do**
-- Practicing Data Structures and Algorithms regularly on LeetCode  
-- Building real-world projects using HTML, CSS, and JavaScript  
-- Learning backend development using Node.js and Spring Boot  
-- Improving problem-solving, debugging, and coding skills  
-- Exploring system design basics and API development  
+Practicing Data Structures and Algorithms regularly on LeetCode
+Building real-world projects using HTML, CSS, and JavaScript
+Learning backend development using Node.js and Spring Boot
+Performing basic software testing on projects (manual & API testing)
+Improving problem-solving, debugging, and coding skills
+Exploring system design basics and API development
+🔥 Key Projects
+🎬 Movie Ticket Booking System
+Developed a web-based application with seat selection and pricing logic
+Implemented dynamic UI updates using JavaScript
+Performed functional testing to ensure correct booking flow
+Designed responsive interface for better user experience
 
----
+Tech Stack: HTML, CSS, JavaScript
 
-## 🔥 Key Projects
+✅ TaskMaster (Todo Application)
+Built a task management app with add, update, delete functionality
+Implemented DOM manipulation and event handling
+Tested features manually for bug-free performance
+Simple and interactive UI
 
-### 🎬 Movie Ticket Booking System
-- Developed a web-based application with seat selection and pricing logic  
-- Implemented dynamic UI updates using JavaScript  
-- Designed responsive interface for better user experience  
+Tech Stack: JavaScript
 
-**Tech Stack:** HTML, CSS, JavaScript  
+🌐 Portfolio Website
+Created personal portfolio to showcase skills and projects
+Designed responsive layout using modern CSS
 
----
+Tech Stack: HTML, CSS
 
-### ✅ TaskMaster (Todo Application)
-- Built a task management app with add, update, delete functionality  
-- Implemented DOM manipulation and event handling  
-- Simple and interactive UI  
+🧑‍💻 Technical Skills
+Languages
 
-**Tech Stack:** JavaScript  
+Java, JavaScript
 
----
+Backend & Core (Learning)
 
-### 🌐 Portfolio Website
-- Created personal portfolio to showcase skills and projects  
-- Designed responsive layout using modern CSS  
+Node.js, Spring Boot, REST APIs, OOP
 
-**Tech Stack:** HTML, CSS  
+Frontend
 
----
+HTML, CSS, ReactJS
 
-## 🧑‍💻 Technical Skills
+Databases
 
-### Languages
-Java, JavaScript  
+MySQL, MongoDB (Basics)
 
-### Backend & Core (Learning)
-Node.js, Spring Boot, REST APIs, OOP  
+Software Testing 🧪
 
-### Frontend
-HTML, CSS, ReactJS  
+Manual Testing, Functional Testing, Regression Testing,
+Test Case Design, Bug Tracking, API Testing (Postman),
+SQL Basics, Agile (Scrum), Selenium (Basic)
 
-### Databases
-MySQL, MongoDB (Basics)  
+Tools
 
-### Tools
-Git, GitHub, VS Code, Postman  
+Git, GitHub, VS Code, Postman, JIRA
 
----
+🏆 Achievements
+Solved 470+ problems on LeetCode (1300+ rating)
+60+ Hard problems solved
+Maintained 100+ days coding streak
+🌐 Profiles
+GitHub: https://github.com/princekumar4u
+LinkedIn: https://www.linkedin.com/in/prince-kumar-0396a324a/
+LeetCode: https://leetcode.com/princekumar4u/
 
-## 🏆 Achievements
-- Solved 470+ problems on LeetCode (1300+ rating)  
-- 60+ Hard problems solved  
-- Maintained 100+ days coding streak  
-
----
-
-## 🌐 Profiles
-- GitHub: https://github.com/princekumar4u  
-- LinkedIn: https://www.linkedin.com/in/prince-kumar-0396a324a/  
-- LeetCode: https://leetcode.com/princekumar4u/  
-
----
-
-⭐ *Currently building backend skills to become a Software Engineer (MTS).*
+⭐ Currently building backend & testing skills to become a Software Engineer (MTS).
