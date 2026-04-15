@@ -14,14 +14,13 @@
 💼 Professional Experience
 Software Development Learner (Self-Practice)
 
-Duration: 2023 – Present
+📅 Duration: 2023 – Present
 
 What I Do
-
 Practicing Data Structures and Algorithms regularly on LeetCode
 Building real-world projects using HTML, CSS, and JavaScript
 Learning backend development using Node.js and Spring Boot
-Performing basic software testing on projects (manual & API testing)
+Performing basic software testing (Manual & API Testing)
 Improving problem-solving, debugging, and coding skills
 Exploring system design basics and API development
 🔥 Key Projects
