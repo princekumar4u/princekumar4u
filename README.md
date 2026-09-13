@@ -1,4 +1,4 @@
-👋 Hi there, I'm Prince Kumar
+👋** Hi there, I'm Prince Kumar**
 🚀 About Me
 
 🎓 Education: MCA from LNCT University, Bhopal
